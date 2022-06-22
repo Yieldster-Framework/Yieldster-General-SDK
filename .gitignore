@@ -1,0 +1,11 @@
+openapi_client.egg-info
+build
+dist
+.idea
+__pycache__
+venv
+
+openapi-generator-cli.jar
+
+*.yml
+*.yaml
